@@ -1,0 +1,39 @@
+a:link, a:visited{   /*Comentário*/ 
+
+       color:rgb(19, 100, 2); 
+       text-decoration: none;
+  
+}
+
+h1{
+       text-align: center;
+       color:rgb(19, 100, 2);
+       font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+      background-image:url('https://i.pinimg.com/originals/b2/32/bd/b232bd0f31a74ff3890c5cc6489ba9c1.jpg'); 
+      text-align:center;   
+      color:green;
+}
+
+a{
+    text-decoration:none;
+    color:green;
+}
+
+a:hover{
+    color:rgb(19,100,2);       
+    text-decoration:underline;        
+}
+
+#wrap{
+       background:rgb(196, 166, 0);
+       width: 960px;
+       margin:auto;
+}
+img{       
+       width:300px;
+       float:center;
+}   
+blockquote{color:black;}
