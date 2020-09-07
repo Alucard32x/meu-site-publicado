@@ -18,6 +18,9 @@ body{
 }
 
 a{
+    margin-left: -1230px;
+    margin-top:570px;
+    text-align:left;
     text-decoration:none;
     color:green;
 }
