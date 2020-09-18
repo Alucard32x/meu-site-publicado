@@ -1,0 +1,36 @@
+body {
+    font-family: Algerian;
+    background-image: url("https://i0.wp.com/fontedasaude.org/wp-content/uploads/2017/07/VITAMINA-PARA-EMAGRECER.jpg?w=600&ssl=1");
+}
+h1 {
+    margin: 0;
+}
+h2{
+    background-color: rgba(205, 125, 50,0.5);
+}
+#wrap{
+    text-align: center;       
+}
+#li{
+    margin:50px; 
+    background-color: rgb(218, 165, 32);
+}
+#sepa{
+    text-align: center;
+}
+#mud{
+    color:white;
+    text-align: center;
+    background-color: rgb(255, 145, 0);
+  
+}
+img{
+    width: 160px;
+}
+#cabe{
+    color:white;
+    text-align: center;
+    background-color:rgb(255, 145, 0);
+  
+}
+
