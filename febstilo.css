@@ -1,0 +1,96 @@
+h1{
+       font-size: 40px;    
+       font-family:Brush script MT;
+       color:green ;
+   }
+   body{   
+       background-image: url(https://i.pinimg.com/originals/b2/32/bd/b232bd0f31a74ff3890c5cc6489ba9c1.jpg);
+       
+   }
+   ul li{    
+       color:red;
+       padding: 10px;
+       display: inline;
+       list-style-type:none;
+   }
+   
+   nav:hover{
+   animation-name: example;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   }
+   @keyframes example{
+   0% { background-color: green;  color:yellow }
+   25% { background-color: yellow ;  color:yellowgreen }
+   50% { background-color: yellowgreen;  color:goldenrod }
+   75% { background-color: goldenrod;  color: green }
+   100% { background-color: green;  color:yellow }
+   }
+   
+   header{
+       text-align: center;
+       position:fixed;
+       z-index:999;
+       left:0%;
+       right: 0%;
+       top:0;
+       overflow:hidden; 
+       border:12px;
+       background-color: rgba(172, 134, 8, 0.925);
+       border-style: dashed;
+       border-color: green;
+   }
+   
+   #apr{
+       background-color: rgb(255, 255, 255,0.4);
+       margin:280px;
+       text-align: center;
+       font-size: 25px;
+       
+   }
+   
+   h2{
+       text-align: center;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 30px;
+       color:green;
+   }
+   
+   footer{
+       font-size: 30px;
+       color:green;
+       background-color: rgba(0,0,0,0.4);
+   }
+   
+   #so{
+       font-family: 'Times New Roman', Times, serif;
+       text-align: center;
+       font-size: 40px;
+   }
+   
+   #svr{
+       margin: 280px;
+       color:black;
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       background-color: rgba(123, 244, 232,0.5);
+       font-size:30px;
+   }
+   
+   #jj{
+       color:red;
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   
+   ol{
+       text-align: left;
+   }
+   
+   h3{
+       font-family:"Times New Roman",Helvetica;
+       text-align: left;
+       color:grey;
+       font-size:23px;
+   }
+   
+   
