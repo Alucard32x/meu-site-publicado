@@ -1,0 +1,41 @@
+A A A       V
+
+B B B       V
+
+C C C       V
+
+A A B       V
+
+A A C       V
+
+A B A       V
+
+A C A       V
+
+A B C       V
+
+A B B       V
+
+A C B       V
+
+B A A       V
+
+B A B       V
+
+B A C       V
+
+B B A       V
+
+B B C       V
+
+B C A       V
+
+C A A       V
+
+C A B       V
+
+C B A       V
+
+C C A       V
+
+C C B       V
